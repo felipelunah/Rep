@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+}
+
+h3{
+    background-color: rgb(29, 29, 161);
+    color: aliceblue;
+    
+}
+
+
+ul{
+    text-align: left;
+}
+
