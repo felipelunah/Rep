@@ -6,6 +6,11 @@
     text-align: center;
 }
 
+nav{
+    background-color: rgb(4, 4, 176);
+    padding: 5px;
+}
+
 .oi {
     padding: 5px;
     margin-right: 5px;
