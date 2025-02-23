@@ -1,0 +1,16 @@
+@media screen and (min-width: 700px){
+   .oi{
+    padding: 5px 50px 5px 50px;
+   }
+   
+    #navio{
+        width: 700px;
+    }
+   
+    iframe{
+        margin: 20px;
+        width: 560px;
+        height: 315px;
+    }
+    
+}
