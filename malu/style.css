@@ -10,7 +10,7 @@ header{
 
 header a{
     
-    padding: 3px 50px 3px 50px;
+    padding: 3px 30px 3px 30px;
     text-decoration: none;
     color: aliceblue;
     background-color: #685292;
@@ -38,9 +38,7 @@ body{
 
 #fotoper{
     width: 450px;
-    position: absolute;
-    margin-left: 40%;
-    margin-top: -10%;
+    
 }
 
 
@@ -53,9 +51,7 @@ body{
 }
 .coracao{
     width: 400px;
-    margin-left: 34%;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-left: 110px;
     
 }
 h1{
