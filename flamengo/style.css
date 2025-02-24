@@ -14,7 +14,7 @@
 
 .menu a{
     text-decoration: none;
-    padding: 0px 80px 0px 80px;
+    padding: 0px 30px 0px 30px;
     color: rgb(42, 42, 42);
     background-color: #fff;
     border: 1px solid #fff;
@@ -74,5 +74,5 @@ h3{
 }
 
 #maraca{
-    margin-left: 350px;
+    
 }
