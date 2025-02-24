@@ -17,6 +17,7 @@ header{
     justify-content: space-around;
     flex-direction: row;
     align-items: center;
+    margin: 20px;
 }
 
 .menu-item{
@@ -57,7 +58,7 @@ body{
     background-color: transparent;
     border: 2px solid #fff;
     border-radius: 10px;
-   
+    margin: auto; 
     padding: 30px 40px;
     color: aliceblue;
     backdrop-filter: blur(20px);
