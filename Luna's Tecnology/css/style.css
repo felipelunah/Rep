@@ -20,7 +20,8 @@ header{
 }
 
 a{
-    padding: 0px 35px 0px 35px;
+    padding: 0px 5px 0px 5px;
+    margin: 0 10px 0 0 ;
     border:2px solid aliceblue;
     border-radius: 5px;
     
@@ -36,19 +37,15 @@ a:hover{
 
 #imgtop{
     width: 200px;
-    display: flex;
-    margin-left: 517px;
-    margin-bottom: 50px;
-    
+    display: block;
+    margin: 0 auto;
+ 
 }
 
 #imgmid{
     width: 300px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-left: 470px;
-    padding: 0;
+    display: block;
+    margin: 0 auto;
 }
 body{
     background-color:#020f1f;
@@ -67,12 +64,12 @@ table{
 }
 
 thead{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 td{
     padding: 20px;
-    width: 50%;
+    
 }
 
 .vant{
