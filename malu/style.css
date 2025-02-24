@@ -3,10 +3,11 @@
 *{
     font-family: "Poppins", serif;
 }
+
 header{
     margin: 20px;
 
-    }
+}
 
 header a{
     
@@ -26,6 +27,7 @@ header a:hover{
     border: 1px solid gray;
     border-radius: 10px;
 }
+
 body{
     display: flex;
     flex-direction: column;
@@ -36,11 +38,18 @@ body{
     
 }
 
-#fotoper{
-    width: 450px;
+.coracao{
+    width: 350px;
+    display: block;
+    margin: 0 auto;
     
 }
 
+h1{
+    color: #685292;
+    text-align: center;
+    margin-bottom: 60px;
+}
 
 .texto{
     background-color: #fff;
@@ -49,15 +58,12 @@ body{
     border-radius: 2px;
     padding: 0 20px 0 20px;
 }
-.coracao{
-    width: 400px;
-    margin-left: 110px;
+
+#fotoper{
+    width: 350px;
+    display: block;
+    margin: 0 auto;
     
-}
-h1{
-    color: #685292;
-    text-align: center;
-    margin-bottom: 60px;
 }
 
 h2{

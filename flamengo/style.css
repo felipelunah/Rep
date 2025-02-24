@@ -47,10 +47,10 @@
 }
 
 body{
-    background-color: rgb(42, 42, 42);
+    background-color: rgb(196, 1, 1);
     text-align: center;
     color: #fff;
-    background: url(./images/back7.jpg);
+    
     background-attachment: fixed;
     background-size: cover;
 }
@@ -74,5 +74,5 @@ h3{
 }
 
 #maraca{
-    
+    border-radius: 10px;
 }

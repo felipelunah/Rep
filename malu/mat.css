@@ -11,7 +11,7 @@ header{
 
 header a{
     
-    padding: 3px 50px 3px 50px;
+    padding: 3px 30px 3px 30px;
     text-decoration: none;
     color: aliceblue;
     background-color: #685292;
@@ -48,12 +48,14 @@ p{
 
 main{
 
-    width: 600px;
+    width: 350px;
     border: 2px solid gray;
     border-radius: 10px;
     background-color: #fff;
 }
 
 #cont{
-    margin-top: 50px;
+    display: block;
+    margin: 0 auto;
+    width: 300px;
 }
