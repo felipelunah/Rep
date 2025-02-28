@@ -2,30 +2,51 @@
 
 *{
     font-family: "Poppins", serif;
+    margin: 0;
+    padding: 0;
+}
+
+i#burger{
+    color: #fff;
+    background-color: #685292;
+    display: block;
+    width: 90vh;
+    text-align: center;
+
+}
+
+i#burger:hover{
+    
+
 }
 
 header{
-    margin: 10px;
+    
+    background-color: #685292;
+    text-align: center;
+  
+    
+    
 
 }
 
 header a{
-    
-    padding: 3px 5px 3px 5px;
+    color: #fff;
     text-decoration: none;
-    color: aliceblue;
-    background-color: #685292;
-    border:1px solid gray;
-    border-radius: 10px;
+    border: 1px solid #fff;
+    display: block;
+    width: 90vh;
 
 }
 
 header a:hover{
-    color:#685292;
-    background-color: aliceblue;
-    transition: 1s;
-    border: 1px solid gray;
-    border-radius: 10px;
+    background-color:#8f6bce ;
+
+
+}
+
+menu{
+    display: none;
 }
 
 body{
