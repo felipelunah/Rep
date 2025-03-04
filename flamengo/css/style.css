@@ -11,7 +11,7 @@ i#burger{
     color: #fff;
     background-color: rgb(237, 28, 36);
     display: block;
-    width: 86vh;
+
     text-align: center;
 
     
@@ -22,7 +22,7 @@ header{
     margin-top: 10px;
     text-align: center;
     background-color: rgb(237, 28, 36);
-    width: 86vh;
+
 
 }
 
