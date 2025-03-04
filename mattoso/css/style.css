@@ -4,27 +4,54 @@
 *{
     font-family: "Poppins", serif;
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
-nav{
+i#burger{
+    color: #fff;
+    background-color: rgb(4, 4, 176);
+    display: block;
+    text-align: center;
+    padding: 5px;
+    
+}
+
+header{
     background-color: rgb(4, 4, 176);
     padding: 5px;
 }
 
-.oi {
+menu{
+    display: none;
+}
+
+menu a{
+    display: block;
+    text-align: center;
+    border: 1px solid #fff;
     padding: 5px;
-    margin-right: 5px;
+    color: #fff;
     text-decoration: none;
-    background-color: rgb(4, 4, 176);
-    border: solid 1 px aliceblue;
-    border-radius: 5px;
-    color: aliceblue;
 }
 
-.oi:hover{
+
+menu a:hover{
     background-color: aliceblue;
     color: black;
     border: solid 1px black;
+}
+
+h1{
+    padding: 25px;
+}
+
+h2{
+    padding: 25px;
+}
+
+p{
+    padding: 10px;
 }
 
 body {
@@ -43,6 +70,7 @@ iframe{
 
 
 li{
+    padding: 5px;
     text-align: left;
 }
 

@@ -3,31 +3,44 @@
 
 *{
     font-family: "Poppins", serif;
+    margin: 0;
+    padding: 0;
 }
 
-.red{
-    background-color: rgb(237, 28, 36);
-    margin-top: 0;
-    
-    
-        
-}
-
-.menu a{
-    text-decoration: none;
-    padding: 0px 30px 0px 30px;
-    color: rgb(42, 42, 42);
-    background-color: #fff;
-    border: 1px solid #fff;
-    border-radius: 20px;
-    margin-top: 0;
-    
-}
-
-.menu a:hover{
+i#burger{
     color: #fff;
-    background-color: rgb(42, 42, 42);
-    transition: 1s;
+    background-color: rgb(237, 28, 36);
+    display: block;
+    width: 86vh;
+    text-align: center;
+
+    
+}
+
+header{
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: rgb(237, 28, 36);
+    width: 86vh;
+
+}
+
+menu a{
+    display: block;
+    text-align: center;
+    border: 1px solid #fff;
+    padding: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+
+menu a:hover{
+    background-color: rgb(242, 80, 86);
+}
+
+menu{
+    display: none;
 }
 
 .patrocionios{
@@ -51,8 +64,6 @@
 body{
     background-color:#fff;
     text-align: center;
-    color:
-    
     background-attachment: fixed;
     background-size: cover;
 }
@@ -77,4 +88,9 @@ h3{
 
 #maraca{
     border-radius: 10px;
+}
+
+h2{
+    background-color: rgb(237, 28, 36);
+    color: #fff;
 }

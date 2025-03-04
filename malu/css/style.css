@@ -12,22 +12,15 @@ i#burger{
     display: block;
     width: 90vh;
     text-align: center;
+    padding: 5px;
 
 }
 
-i#burger:hover{
-    
-
-}
-
-header{
-    
+header{  
+    margin: 10px;
     background-color: #685292;
     text-align: center;
   
-    
-    
-
 }
 
 header a{
@@ -36,6 +29,7 @@ header a{
     border: 1px solid #fff;
     display: block;
     width: 90vh;
+    padding: 5px;
 
 }
 
@@ -63,6 +57,7 @@ body{
     width: 350px;
     display: block;
     margin: 0 auto;
+    margin-top: 60px;
     
 }
 
@@ -70,6 +65,7 @@ h1{
     color: #685292;
     text-align: center;
     margin-bottom: 60px;
+    margin-top: 60px;
 }
 
 .texto{
@@ -89,6 +85,7 @@ h1{
 
 h2{
     color: #685292;
+    margin-top: 15px;
 }
 
 p{
