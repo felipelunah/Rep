@@ -1,4 +1,3 @@
-# Rep
+Olá, seja bem vindo ao meu repositório!
 
-alo alo
- Meus projetos
+Fique a vontade para explorar meus projetos
