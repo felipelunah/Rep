@@ -28,7 +28,6 @@ header a{
     text-decoration: none;
     border: 1px solid #fff;
     display: block;
-    
     padding: 5px;
 
 }
@@ -77,9 +76,8 @@ h1{
 }
 
 #fotoper{
-    width: 350px;
-    display: block;
-    margin: 0 auto;
+    width: 300px;
+
     
 }
 

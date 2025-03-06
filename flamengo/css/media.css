@@ -1,5 +1,22 @@
 @media screen and (min-width:768px){
-    
+    main{
+        width: 900px;
+        margin: 0 auto;
+    }
+
+    #maraca{
+        width: 450px;
+    }
+
+    table{
+        width: 500px;
+
+    }
+
+    #mascote{
+        width: 450px;
+    }
+
 }
 
 
