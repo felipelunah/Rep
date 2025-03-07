@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/mobile.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Formulário Luna's</h1>
+        <p>Preencha corretamente</p>
+    </header>
+
+    <main>
+        <form>
+
+            <div class="topo">
+                <label for="nome">Nome <br></label>
+                <input type="text" name="nome" id="nome" required><br>
+                
+                <label for="sobre">Sobrenome<br></label>
+                <input type="text" name="sobre" id="sobre" required><br>
+
+                <label for="email">Email<br></label>
+                <input type="email" name="email" id="email" required>
+            </div>
+
+
+
+            <div class="out">
+                <label>Qual parte você tem afinidade?<br></label>
+
+                <input type="radio">
+                <label for="">Frot-end</label>
+                
+                <input type="radio">
+                <label for=""> Back-end</label>
+                
+                <input type="radio">
+                <label for=""> Fullstack</label>
+
+            </div>
+            
+            
+            <div class="option">
+                <br><label for="senioridade">Qual vaga está se candidatando?</label>
+                <select name="senioridade" id="">
+                    <option selected disabled value="">Selecione</option>
+                    <option value="">Opção 1</option>
+                    <option value="">Opção 2</option>
+                    <option value="">Opção 3</option>
+                    <option value="">Opção 4</option>
+                </select>
+            </div>
+
+            <div class="check">
+                <label>Selecione as tecnologias que sabe: <br> </label>
+
+                <input type="checkbox">
+                <label for="">JavaScript</label>
+
+                <input type="checkbox">
+                <label for="">HTML</label>
+
+                <input type="checkbox">
+                <label for="">CSS</label>
+
+                <input type="checkbox">
+                <label for="">C#</label>
+
+                <input type="checkbox">
+                <label for="">Java</label>
+            </div>
+
+            <div class="txt">
+                <label for="experiencia"><strong>Conte um pouco mais da sua experiência: </strong></label>
+                <textarea rows="6" style="width: 26em" id="experiencia" name="experiencia"></textarea>
+            </div>
+
+            <button type="submit" id="enviar">Enviar</button>
+
+        </form>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>
