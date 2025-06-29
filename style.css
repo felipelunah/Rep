@@ -1,0 +1,20 @@
+
+.img-container{
+    display: inline-block;
+    transition: transform 0.3s ease;
+    cursor: zoom-in;
+}
+
+.img-container.ampliada{
+    transform: scale(2);
+    position: relative;
+    cursor: zoom-out;
+}
+
+img{
+    max-width: 500px;
+    height: auto;
+    margin-top: 250px;
+    margin-left: 500px;
+}
+
